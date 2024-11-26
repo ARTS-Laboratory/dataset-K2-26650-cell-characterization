@@ -10,7 +10,7 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 
 Cite this as: 
 
-@Misc{ARTSLabDatasetCyclingStrain,    
+@Misc{ARTSLabDatasetK226650,    
   author = {ARTS-Lab},  
   howpublished = {GitHub},  
   title  = {dataset-K2-26650-cell-characterization},    
