@@ -16,5 +16,5 @@ Cite this as:
   title  = {dataset-K2-26650-cell-characterization},    
   groups = {ARTS-Lab},    
   url    = {https://github.com/ARTS-Laboratory/dataset-K2-26650-cell-characterization},   
-  notes  = {Accessed: Month dd, yyyy},   
+  note  = {Accessed: Month dd, yyyy},   
 }
